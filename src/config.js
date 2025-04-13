@@ -1,7 +1,6 @@
 const config = {
   //网页元数据
   metaData:{
-<<<<<<< HEAD
     title: '一隅🎉',
     description: '寻芳不觉醉流霞，倚树沉眠日已斜',
     keywords: '桑榆,sangyu,一隅',
@@ -10,16 +9,6 @@ const config = {
 
   avatar: "https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/portrait.jpg", // 头像
   welcometitle: "Hi, I'm sangyu", // 标题
-=======
-    title: 'Leleo的个人主页🎉',
-    description: '欢迎来到Leleo的奇妙世界！',
-    keywords: 'Leleo,leleo,个人主页,个人网站',
-    icon: '/favicon.ico'   //网页图标，支持外链
-  },
-
-  avatar: "/img/avatar.jpg", // 头像
-  welcometitle: "Hi, I'm Leleo", // 标题
->>>>>>> 34cb3b62d00f37fd6d762d230a171db518cf009a
 
   // 颜色配置
   color: {
@@ -31,39 +20,24 @@ const config = {
   blur: 5, // 毛玻璃模糊效果
 
   // 我的标签
-<<<<<<< HEAD
   tags : ['乐观开朗','编程爱好者','清澈愚蠢','才思敏捷','风趣幽默','摆烂的大学牲'],
-=======
-  tags : ['乐观开朗','温柔体贴','随和亲切','冷静沉着','才思敏捷','风趣幽默','刚正不阿','善解人意'],
->>>>>>> 34cb3b62d00f37fd6d762d230a171db518cf009a
 
   // 默认背景壁纸
   background: {
     "pc":{   //pc端
       "type":"pic",   //"pic":静态壁纸;"video":动态壁纸
       "datainfo":{
-<<<<<<< HEAD
         "title":"", 
         "preview":"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/background1.webp",
         "url":"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/background1.webp",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
-=======
-        "title":"海洋女孩", 
-        "preview":"/img/wallpaper/static/海洋女孩/image-pre.webp",
-        "url":"/img/wallpaper/static/海洋女孩/image.png",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
->>>>>>> 34cb3b62d00f37fd6d762d230a171db518cf009a
       },
     },
     "mobile":{   //移动端
       "type":"pic",
       "datainfo":{
         "title":"0001", 
-<<<<<<< HEAD
         "preview":"https://i.postimg.cc/hjd3rbYM/image.png",
         "url":"https://i.postimg.cc/hjd3rbYM/image.png"  //同理，随机移动端壁纸："url":"https://t.mwm.moe/mp"
-=======
-        "preview":"/img/wallpaper/static-mobile/0001/image-pre.webp",
-        "url":"/img/wallpaper/static-mobile/0001/image.png"  //同理，随机移动端壁纸："url":"https://t.mwm.moe/mp"
->>>>>>> 34cb3b62d00f37fd6d762d230a171db518cf009a
       }
     }
       
@@ -77,13 +51,8 @@ const config = {
 
   //社交按钮
   socialPlatformIcons: [
-<<<<<<< HEAD
     {icon:"mdi-github",link:"https://github.com/sangyu520"},
     {icon:"mdi-email",link:"mailto:2035027466@qq.com"},
-=======
-    {icon:"mdi-github",link:"https://www.github.com/leleo886"},
-    {icon:"mdi-email",link:"mailto:leleo886@foxmail.com"},
->>>>>>> 34cb3b62d00f37fd6d762d230a171db518cf009a
     {icon:"mdi-qqchat",link:"https://im.qq.com/"},
     {icon:"mdi-wechat",link:"https://wx.qq.com/"},
     {icon:"mdi-youtube",link:"https://www.youtube.com"},
@@ -92,28 +61,17 @@ const config = {
 
   //打字机
   typeWriterStrings: [
-<<<<<<< HEAD
     "“失之东隅，收之桑榆”回头看，轻舟已过万重山；向前看，前路漫漫亦灿灿",
     "我是一个经常笑的人，可我不是一个经常开心的人",
     "人生到处知何似，应似飞鸿踏雪泥",
     "休言完事转头空，未转头时是梦"
-=======
-    "如果你看到了这行字，说明我已经成功吸引到了你的注意力。",
-    "顶峰的少年，给了你所有细节，你却说我不是迪迦，给不了你想要的光。",
-    "心简单，世界就简单，幸福才会生长；心自由，生活就自由，到哪都有快乐。",
-    "生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。"
->>>>>>> 34cb3b62d00f37fd6d762d230a171db518cf009a
   ],
 
   //音乐播放配置，采用MetingJS Api(https://github.com/metowolf/MetingJS)
   musicPlayer:{
     server: 'netease',  //服务提供商 --网易云音乐
     type: 'playlist',   //歌单类型
-<<<<<<< HEAD
     id: '2777140765'  //歌单id ---> music.163.com/#/playlist?id=2028178887
-=======
-    id: '2028178887'  //歌单id ---> music.163.com/#/playlist?id=2028178887
->>>>>>> 34cb3b62d00f37fd6d762d230a171db518cf009a
   },
 
   //壁纸数据 -----可以将壁纸文件上传到uhsea.com获取网络直链。若想调用api，请前往脚本自行修改逻辑
@@ -184,11 +142,6 @@ const config = {
     {go:"💍 前往",img:"/img/sunshine.jpg",title:"Project 7",subtitle:"7,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
     {go:"🔍 前往",img:"/img/sunshine.jpg",title:"Project 8",subtitle:"8,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
   ],
-<<<<<<< HEAD
-=======
-  
-  statement: ["备案号：XXICP备123456789号","Copyright © 2025 Leleo"],
->>>>>>> 34cb3b62d00f37fd6d762d230a171db518cf009a
 }
 
 export default config
