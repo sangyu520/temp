@@ -133,14 +133,14 @@ const config = {
 
   //项目卡片 其中 字段"show"控制初始卡片的text是否展开
   projectcards:[ 
-    {go:"🚀 前往",img:"/img/sunshine.jpg",title:"Project 1",subtitle:"1,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"🗂️ 前往",img:"/img/sunshine.jpg",title:"Project 2",subtitle:"2,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"📝 前往",img:"/img/sunshine.jpg",title:"Project 3",subtitle:"3,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"👍 前往",img:"/img/sunshine.jpg",title:"Project 4",subtitle:"4,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"🗃 前往",img:"/img/sunshine.jpg",title:"Project 5",subtitle:"5,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"🎨 前往",img:"/img/sunshine.jpg",title:"Project 6",subtitle:"6,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"💍 前往",img:"/img/sunshine.jpg",title:"Project 7",subtitle:"7,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"🔍 前往",img:"/img/sunshine.jpg",title:"Project 8",subtitle:"8,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
+    {go:"🚀 前往",img:"https://i.postimg.cc/pXMzpbtp/image-20250413151828179.png",title:"Project 1",subtitle:"1,000 miles of wonder", text:"这是blog主站，主要是关于生活的",url:"https://www.sangyufeiwan.com/",show:false},
+    {go:"🗂️ 前往",img:"https://i.postimg.cc/XvtXmdjp/image.jpg",title:"Project 2",subtitle:"2,000 miles of wonder", text:"这是blog分站，主要是记一些学习笔记的",url:"https://leleo.top",show:false},
+    {go:"📝 前往",img:"https://i.postimg.cc/3rXWfkPx/image.jpg",title:"Project 3",subtitle:"3,000 miles of wonder", text:"还在开发中，别催我",url:"https://www.sangyufeiwan.com/404.html",show:false},
+    {go:"👍 前往",img:"/img/sunshine.jpg",title:"Project 4",subtitle:"4,000 miles of wonder", text:"还在开发中，别催我",url:"https://www.sangyufeiwan.com/404.html",show:false},
+    {go:"🗃 前往",img:"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/%E3%80%90%E5%93%B2%E9%A3%8E%E5%A3%81%E7%BA%B8%E3%80%91%E5%B0%8F%E9%BB%84%E8%8A%B1-%E7%8C%AB.png",title:"Project 5",subtitle:"5,000 miles of wonder", text:"还在开发中，别催我",url:"https://www.sangyufeiwan.com/404.html",show:false},
+    {go:"🎨 前往",img:"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/%E7%8B%97%E7%8B%97.png",title:"Project 6",subtitle:"6,000 miles of wonder", text:"还在开发中，别催我",url:"https://www.sangyufeiwan.com/404.html",show:false},
+    {go:"💍 前往",img:"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/%E3%80%90%E5%93%B2%E9%A3%8E%E5%A3%81%E7%BA%B8%E3%80%91%E5%8F%A3%E8%A2%8B%E5%A6%96%E6%80%AA-%E5%9C%BA%E6%99%AF-%E6%B8%A9%E6%B3%89.png",title:"Project 7",subtitle:"7,000 miles of wonder", text:"还在开发中，别催我",url:"https://www.sangyufeiwan.com/404.html",show:false},
+    {go:"🔍 前往",img:"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/%E3%80%90%E5%93%B2%E9%A3%8E%E5%A3%81%E7%BA%B8%E3%80%91%E4%B9%A6%E6%88%BF-%E5%A4%9C%E6%99%9A.png",title:"Project 8",subtitle:"8,000 miles of wonder", text:"还在开发中，别催我",url:"https://www.sangyufeiwan.com/404.html",show:false},
   ],
 }
 
