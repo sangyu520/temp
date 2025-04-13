@@ -134,7 +134,7 @@ const config = {
   //项目卡片 其中 字段"show"控制初始卡片的text是否展开
   projectcards:[ 
     {go:"🚀 戳我",img:"https://i.postimg.cc/pXMzpbtp/image-20250413151828179.png",title:"桑榆主页",subtitle:"1,000 miles of wonder", text:"这是blog主站，主要是关于生活的",url:"https://www.sangyufeiwan.com/",show:false},
-    {go:"🗂️ 点一下嘞",img:"https://i.postimg.cc/XvtXmdjp/image.jpg",title:"学习笔记",subtitle:"2,000 miles of wonder", text:"这是blog分站，主要是记一些学习笔记的",url:"https://leleo.top",show:false},
+    {go:"🗂️ 点一下嘞",img:"https://i.postimg.cc/XvtXmdjp/image.jpg",title:"学习笔记",subtitle:"2,000 miles of wonder", text:"这是blog分站，主要是记一些学习笔记的",url:"https://co.sangyufeiwan.com/",show:false},
     {go:"📝 click",img:"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/%E3%80%90%E5%93%B2%E9%A3%8E%E5%A3%81%E7%BA%B8%E3%80%91%E4%B9%A6%E6%88%BF-%E5%A4%9C%E6%99%9A.png",title:"前面的路以后再来探索吧",subtitle:"3,000 miles of wonder", text:"还在开发中，别催我",url:"https://www.sangyufeiwan.com/404.html",show:false},
     {go:"👍 前往",img:"/img/sunshine.jpg",title:"前面的路以后再来探索吧",subtitle:"4,000 miles of wonder", text:"还在开发中，别催我",url:"https://www.sangyufeiwan.com/404.html",show:false},
     {go:"🗃 前往",img:"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/%E3%80%90%E5%93%B2%E9%A3%8E%E5%A3%81%E7%BA%B8%E3%80%91%E5%B0%8F%E9%BB%84%E8%8A%B1-%E7%8C%AB.png",title:"前面的路以后再来探索吧",subtitle:"5,000 miles of wonder", text:"还在开发中，别催我",url:"https://www.sangyufeiwan.com/404.html",show:false},
