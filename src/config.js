@@ -122,33 +122,33 @@ const config = {
       },
       {
         "title":"松赖响起",
-        "preview":"/img/wallpaper/dynamic/松赖响起/woods.mp4",
-        "url":"/img/wallpaper/dynamic/松赖响起/woods.mp4"
+        "preview":"/img/wallpaper/dynamic/向往航天的女孩/woods.mp4",
+        "url":"/img/wallpaper/dynamic/向往航天的女孩/woods.mp4"
       },
       {
         "title":"学习",
-        "preview":"/img/wallpaper/dynamic/学习/学习.mp4",
-        "url":"/img/wallpaper/dynamic/学习/学习.mp4"
+        "preview":"/img/wallpaper/dynamic/向往航天的女孩/学习.mp4",
+        "url":"/img/wallpaper/dynamic/向往航天的女孩/学习.mp4"
       },
       {
         "title":"听雨",
-        "preview":"/img/wallpaper/dynamic/听雨/Cozy Bedroom Rain On Window.mp4",
-        "url":"/img/wallpaper/dynamic/听雨/Cozy Bedroom Rain On Window.mp4"
+        "preview":"/img/wallpaper/dynamic/向往航天的女孩/Cozy Bedroom Rain On Window.mp4",
+        "url":"/img/wallpaper/dynamic/向往航天的女孩/Cozy Bedroom Rain On Window.mp4"
       },
       {
         "title":"雪",
-        "preview":"/img/wallpaper/dynamic/雪/雪.mp4",
-        "url":"/img/wallpaper/dynamic/雪/雪.mp4"
+        "preview":"/img/wallpaper/dynamic/向往航天的女孩/雪.mp4",
+        "url":"/img/wallpaper/dynamic/向往航天的女孩/雪.mp4"
       },
       {
         "title":"Solar_System",
-        "preview":"/img/wallpaper/dynamic/Solar_System/Solar_System.mp4",
-        "url":"/img/wallpaper/dynamic/Solar_System/Solar_System.mp4"
+        "preview":"/img/wallpaper/dynamic/向往航天的女孩/Solar_System.mp4",
+        "url":"/img/wallpaper/dynamic/向往航天的女孩/Solar_System.mp4"
       },
       {
         "title":"星罗棋布",
-        "preview":"/img/wallpaper/dynamic/星罗棋布/星罗棋布.mp4",
-        "url":"/img/wallpaper/dynamic/星罗棋布/星罗棋布.mp4"
+        "preview":"/img/wallpaper/dynamic/向往航天的女孩/星罗棋布.mp4",
+        "url":"/img/wallpaper/dynamic/向往航天的女孩/星罗棋布.mp4"
       },
       
     ],
