@@ -78,6 +78,8 @@ const config = {
   wallpaper:{
     pic:[
       {"title":"海洋女孩","preview":"/img/wallpaper/static/海洋女孩/image-pre.webp","url":"/img/wallpaper/static/海洋女孩/image.png"},
+      {"title":"下雪啦","preview":"https://i.postimg.cc/XqP1Wb8g/2025-04-08-142509.png","url":"https://i.postimg.cc/XqP1Wb8g/2025-04-08-142509.png"},
+      {"title":"凌乱的一天","preview":"https://i.postimg.cc/mkKjqSLX/4-K.jpg","url":"https://i.postimg.cc/mkKjqSLX/4-K.jpg"},
       {"title":"书房夜晚","preview":"/img/wallpaper/static/书房夜晚/image-pre.webp","url":"/img/wallpaper/static/书房夜晚/image.png"},
       {"title":"安逸舒适","preview":"/img/wallpaper/static/安逸舒适/image-pre.webp","url":"/img/wallpaper/static/安逸舒适/image.png"},
       {"title":"jswcMaMj","preview":"https://file.uhsea.com/2503/76a4f03e8654d6e66bbbc7e8149c2fe33M.png","url":"https://file.uhsea.com/2503/5b8a20a5f2b269659911c9485d0d0c3f0F.png"},
@@ -88,17 +90,24 @@ const config = {
       {"title":"jgnIKMpd","preview":"https://file.uhsea.com/2503/5d4d35ed1c286afc930184231456edc9BR.png","url":"https://file.uhsea.com/2503/3bf8025d8ad7ccefcf7e72c9368a245cLL.png"},
       {"title":"mgqyySeh","preview":"https://file.uhsea.com/2503/38994dc4ef8659067537a3ea11af0927KB.png","url":"https://file.uhsea.com/2503/6e3b14778e879234826b9d5c793474ffOS.png"},
       {"title":"dSXZfZp","preview":"https://file.uhsea.com/2503/22c27ea8c1e44209a223a28026146115LS.png","url":"https://file.uhsea.com/2503/8d1203a01e7a5a639caf91ca6c9608acVL.png"},
+      {"title":"","preview":"https://i.postimg.cc/nLYDfGkR/SY.png","url":"https://i.postimg.cc/nLYDfGkR/SY.png"},
+      {"title":"怎么还没过年","preview":"https://i.postimg.cc/tgrMkWxf/image.jpg","url":"https://i.postimg.cc/tgrMkWxf/image.jpg"},
+      {"title":"静谧","preview":"https://i.postimg.cc/JtVrh97b/image.jpg","url":"https://i.postimg.cc/JtVrh97b/image.jpg"},
+      
+      {"title":"太阳，又落山了","preview":"https://i.postimg.cc/fTJmSXzy/image.jpg","url":"https://i.postimg.cc/fTJmSXzy/image.jpg"},
       {"title":"自由","preview":"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/background1.webp","url":"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/background1.webp"},
+
+      
     ],
     picMobile:[
       {"title":"0001","preview":"/img/wallpaper/static-mobile/0001/image-pre.webp","url":"/img/wallpaper/static-mobile/0001/image.png"},
       {"title":"0002","preview":"/img/wallpaper/static-mobile/0002/image-pre.webp","url":"/img/wallpaper/static-mobile/0002/image.png"},
       {"title":"0003","preview":"/img/wallpaper/static-mobile/0003/image-pre.webp","url":"/img/wallpaper/static-mobile/0003/image.png"},
       {"title":"0004","preview":"/img/wallpaper/static-mobile/0004/image-pre.webp","url":"/img/wallpaper/static-mobile/0004/image.png"},
-      {"title":"DfNHPPcc","preview":"https://file.uhsea.com/2503/e3510f4d0286e37b828f74494230f0efM2.png","url":"https://file.uhsea.com/2503/97b50adb3d4cd6f1a4132f6d3e8c98483T.png"},
-      {"title":"WIOlrGSy","preview":"https://file.uhsea.com/2503/99162abfe07e18cfe6182ca3458561ef3A.png","url":"https://file.uhsea.com/2503/609532b992163117db9b341dde87b78f3C.png"},
-      {"title":"cZZwzhis","preview":"https://file.uhsea.com/2503/cf558fa1989c07726778c60be47b9928K8.png","url":"https://file.uhsea.com/2503/e27b91f1604f73d0444c807024ef7c9fI3.png"},
-      {"title":"aANKZHPX","preview":"https://file.uhsea.com/2503/0aa1cb875c8c7c20afd1aa72530294350K.png","url":"https://file.uhsea.com/2503/b09b65e20e176cb0d22dbc319981b5b45L.png"},
+      {"title":"DfNHPPcc","preview":"https://i.postimg.cc/wjkw0LNz/image.jpg","url":"https://i.postimg.cc/wjkw0LNz/image.jpg"},
+      {"title":"WIOlrGSy","preview":"https://i.postimg.cc/15kB9MGs/Chris.jpg","url":"https://i.postimg.cc/15kB9MGs/Chris.jpg"},
+      {"title":"cZZwzhis","preview":"https://i.postimg.cc/0QVZPsfB/image.jpg","url":"https://i.postimg.cc/0QVZPsfB/image.jpg"},
+      {"title":"aANKZHPX","preview":"https://i.postimg.cc/RVprXrxG/image.jpg","url":"https://i.postimg.cc/RVprXrxG/image.jpg"},
     ],
     video:[
       {
@@ -111,6 +120,37 @@ const config = {
         "preview":"/img/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane-pre.webm",
         "url":"/img/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane.webm"
       },
+      {
+        "title":"松赖响起",
+        "preview":"/img/wallpaper/dynamic/松赖响起/woods.mp4",
+        "url":"/img/wallpaper/dynamic/松赖响起/woods.mp4"
+      },
+      {
+        "title":"学习",
+        "preview":"/img/wallpaper/dynamic/学习/学习.mp4",
+        "url":"/img/wallpaper/dynamic/学习/学习.mp4"
+      },
+      {
+        "title":"听雨",
+        "preview":"/img/wallpaper/dynamic/听雨/Cozy Bedroom Rain On Window.mp4",
+        "url":"/img/wallpaper/dynamic/听雨/Cozy Bedroom Rain On Window.mp4"
+      },
+      {
+        "title":"雪",
+        "preview":"/img/wallpaper/dynamic/雪/雪.mp4",
+        "url":"/img/wallpaper/dynamic/雪/雪.mp4"
+      },
+      {
+        "title":"Solar_System",
+        "preview":"/img/wallpaper/dynamic/Solar_System/Solar_System.mp4",
+        "url":"/img/wallpaper/dynamic/Solar_System/Solar_System.mp4"
+      },
+      {
+        "title":"星罗棋布",
+        "preview":"/img/wallpaper/dynamic/星罗棋布/星罗棋布.mp4",
+        "url":"/img/wallpaper/dynamic/星罗棋布/星罗棋布.mp4"
+      },
+      
     ],
     videoMobile:[
       {
@@ -134,7 +174,7 @@ const config = {
   //项目卡片 其中 字段"show"控制初始卡片的text是否展开
   projectcards:[ 
     {go:"🚀 戳我",img:"https://i.postimg.cc/pXMzpbtp/image-20250413151828179.png",title:"桑榆主页",subtitle:"1,000 miles of wonder", text:"这是blog主站，主要是关于生活的",url:"https://www.sangyufeiwan.com/",show:false},
-    {go:"🗂️ 点一下嘞",img:"https://i.postimg.cc/XvtXmdjp/image.jpg",title:"学习笔记",subtitle:"2,000 miles of wonder", text:"这是blog分站，主要是记一些学习笔记的",url:"https://co.sangyufeiwan.com/",show:false},
+    {go:"🗂️ 点一下嘞",img:"https://i.postimg.cc/XvtXmdjp/image.jpg",title:"学习笔记",subtitle:"2,000 miles of wonder", text:"这是blog分站，主要是记一些学习笔记的",url:"https://leleo.top",show:false},
     {go:"📝 click",img:"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/%E3%80%90%E5%93%B2%E9%A3%8E%E5%A3%81%E7%BA%B8%E3%80%91%E4%B9%A6%E6%88%BF-%E5%A4%9C%E6%99%9A.png",title:"前面的路以后再来探索吧",subtitle:"3,000 miles of wonder", text:"还在开发中，别催我",url:"https://www.sangyufeiwan.com/404.html",show:false},
     {go:"👍 前往",img:"/img/sunshine.jpg",title:"前面的路以后再来探索吧",subtitle:"4,000 miles of wonder", text:"还在开发中，别催我",url:"https://www.sangyufeiwan.com/404.html",show:false},
     {go:"🗃 前往",img:"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/%E3%80%90%E5%93%B2%E9%A3%8E%E5%A3%81%E7%BA%B8%E3%80%91%E5%B0%8F%E9%BB%84%E8%8A%B1-%E7%8C%AB.png",title:"前面的路以后再来探索吧",subtitle:"5,000 miles of wonder", text:"还在开发中，别催我",url:"https://www.sangyufeiwan.com/404.html",show:false},
