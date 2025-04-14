@@ -122,13 +122,13 @@ const config = {
       },
       {
         "title":"松赖响起",
-        "preview":"/img/wallpaper/dynamic/向往航天的女孩/woods.mp4",
-        "url":"/img/wallpaper/dynamic/向往航天的女孩/woods.mp4"
+        "preview":"/img/wallpaper/dynamic/向往航天的女孩/freeconpress-woods.mp4",
+        "url":"/img/wallpaper/dynamic/向往航天的女孩/freeconpress-woods.mp4"
       },
       {
         "title":"学习",
-        "preview":"/img/wallpaper/dynamic/向往航天的女孩/学习.mp4",
-        "url":"/img/wallpaper/dynamic/向往航天的女孩/学习.mp4"
+        "preview":"/img/wallpaper/dynamic/向往航天的女孩/freecompress-output.mp4",
+        "url":"/img/wallpaper/dynamic/向往航天的女孩/freecompress-output.mp4"
       },
       {
         "title":"听雨",
