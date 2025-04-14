@@ -145,11 +145,6 @@ const config = {
         "preview":"/img/wallpaper/dynamic/向往航天的女孩/Solar_System.mp4",
         "url":"/img/wallpaper/dynamic/向往航天的女孩/Solar_System.mp4"
       },
-      {
-        "title":"星罗棋布",
-        "preview":"/img/wallpaper/dynamic/向往航天的女孩/星罗棋布.mp4",
-        "url":"/img/wallpaper/dynamic/向往航天的女孩/星罗棋布.mp4"
-      },
       
     ],
     videoMobile:[
