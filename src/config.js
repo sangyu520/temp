@@ -122,7 +122,7 @@ const config = {
       },
       {
         "title":"松赖响起",
-        "preview":"/img/wallpaper/dynamic/向往航天的女孩/freeconpress-woods.webm",
+        "preview":"/img/wallpaper/dynamic/向往航天的女孩/freecompress-woods.webm",
         "url":"/img/wallpaper/dynamic/向往航天的女孩/freeconpress-woods.webm"
       },
       {
