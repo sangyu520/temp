@@ -142,8 +142,8 @@ const config = {
       },
       {
         "title":"Solar_System",
-        "preview":"/img/wallpaper/dynamic/向往航天的女孩/Solar_System.webm",
-        "url":"/img/wallpaper/dynamic/向往航天的女孩/Solar_System.webm"
+        "preview":"/img/wallpaper/dynamic/向往航天的女孩/solar-system.webm",
+        "url":"/img/wallpaper/dynamic/向往航天的女孩/solar-system.webm"
       },
       
     ],
