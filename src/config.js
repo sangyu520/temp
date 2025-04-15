@@ -122,8 +122,8 @@ const config = {
       },
       {
         "title":"松赖响起",
-        "preview":"/img/wallpaper/dynamic/向往航天的女孩/freeconpress-woods.mp4",
-        "url":"/img/wallpaper/dynamic/向往航天的女孩/freeconpress-woods.mp4"
+        "preview":"/img/wallpaper/dynamic/向往航天的女孩/freeconpress-woods.webm",
+        "url":"/img/wallpaper/dynamic/向往航天的女孩/freeconpress-woods.webm"
       },
       {
         "title":"学习",
@@ -137,13 +137,13 @@ const config = {
       },
       {
         "title":"雪",
-        "preview":"/img/wallpaper/dynamic/向往航天的女孩/雪.mp4",
-        "url":"/img/wallpaper/dynamic/向往航天的女孩/雪.mp4"
+        "preview":"/img/wallpaper/dynamic/向往航天的女孩/雪.webm",
+        "url":"/img/wallpaper/dynamic/向往航天的女孩/雪.webm"
       },
       {
         "title":"Solar_System",
-        "preview":"/img/wallpaper/dynamic/向往航天的女孩/Solar_System.mp4",
-        "url":"/img/wallpaper/dynamic/向往航天的女孩/Solar_System.mp4"
+        "preview":"/img/wallpaper/dynamic/向往航天的女孩/Solar_System.webm",
+        "url":"/img/wallpaper/dynamic/向往航天的女孩/Solar_System.webm"
       },
       
     ],
