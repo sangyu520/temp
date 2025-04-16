@@ -108,6 +108,8 @@ const config = {
       {"title":"WIOlrGSy","preview":"https://i.postimg.cc/15kB9MGs/Chris.jpg","url":"https://i.postimg.cc/15kB9MGs/Chris.jpg"},
       {"title":"cZZwzhis","preview":"https://i.postimg.cc/0QVZPsfB/image.jpg","url":"https://i.postimg.cc/0QVZPsfB/image.jpg"},
       {"title":"aANKZHPX","preview":"https://i.postimg.cc/RVprXrxG/image.jpg","url":"https://i.postimg.cc/RVprXrxG/image.jpg"},
+      {"title":"girl","preview":"https://i.postimg.cc/Vk7smK3Z/image.jpg","url":"https://i.postimg.cc/Vk7smK3Z/image.jpg"},
+      {"title":"girl2","preview":"https://i.postimg.cc/CLzmc5wZ/2.jpg","url":"https://i.postimg.cc/CLzmc5wZ/2.jpg"},  
     ],
     video:[
       {
