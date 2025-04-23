@@ -4,7 +4,7 @@ const config = {
     title: '一隅🎉',
     description: '寻芳不觉醉流霞，倚树沉眠日已斜',
     keywords: '桑榆,sangyu,一隅',
-    icon: 'favicon.ico'   //网页图标，支持外链
+    icon: 'https://i.postimg.cc/Fzs5JF8d/favicon.png'   //网页图标，支持外链
   },
 
   avatar: "https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/portrait.jpg", // 头像
