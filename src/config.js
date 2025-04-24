@@ -97,7 +97,7 @@ const config = {
       {"title":"太阳，又落山了","preview":"https://i.postimg.cc/fTJmSXzy/image.jpg","url":"https://i.postimg.cc/fTJmSXzy/image.jpg"},
       {"title":"自由","preview":"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/background1.webp","url":"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/background1.webp"},
       {"title":"看书","preview":"https://i.postimg.cc/13fDSjJS/image.jpg","url":"https://i.postimg.cc/13fDSjJS/image.jpg"},
-      {"title":"怜悯","https://i.postimg.cc/zB1hnX5D/image.jpg","url":"https://i.postimg.cc/zB1hnX5D/image.jpg"},
+      {"title":"怜悯","preview":"https://i.postimg.cc/zB1hnX5D/image.jpg","url":"https://i.postimg.cc/zB1hnX5D/image.jpg"},
       
     ],
     picMobile:[
