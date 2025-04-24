@@ -28,8 +28,8 @@ const config = {
       "type":"pic",   //"pic":静态壁纸;"video":动态壁纸
       "datainfo":{
         "title":"", 
-        "preview":"https://i.postimg.cc/fTJmSXzy/image.jpg",
-        "url":"https://i.postimg.cc/fTJmSXzy/image.jpg",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
+        "preview":"https://i.postimg.cc/13fDSjJS/image.jpg",
+        "url":"https://i.postimg.cc/13fDSjJS/image.jpg",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
       },
     },
     "mobile":{   //移动端
@@ -97,7 +97,7 @@ const config = {
       {"title":"太阳，又落山了","preview":"https://i.postimg.cc/fTJmSXzy/image.jpg","url":"https://i.postimg.cc/fTJmSXzy/image.jpg"},
       {"title":"自由","preview":"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/background1.webp","url":"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/background1.webp"},
       {"title":"看书","preview":"https://i.postimg.cc/13fDSjJS/image.jpg","url":"https://i.postimg.cc/13fDSjJS/image.jpg"},
-      {"title":"海洋女孩","preview":"/img/wallpaper/static/海洋女孩/image-pre.webp","url":"/img/wallpaper/static/海洋女孩/image.png"},
+      {"title":"怜悯","https://i.postimg.cc/zB1hnX5D/image.jpg","url":"https://i.postimg.cc/zB1hnX5D/image.jpg"},
       
     ],
     picMobile:[
