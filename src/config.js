@@ -93,10 +93,11 @@ const config = {
       {"title":"","preview":"https://i.postimg.cc/nLYDfGkR/SY.png","url":"https://i.postimg.cc/nLYDfGkR/SY.png"},
       {"title":"怎么还没过年","preview":"https://i.postimg.cc/tgrMkWxf/image.jpg","url":"https://i.postimg.cc/tgrMkWxf/image.jpg"},
       {"title":"静谧","preview":"https://i.postimg.cc/JtVrh97b/image.jpg","url":"https://i.postimg.cc/JtVrh97b/image.jpg"},
-      
+      {"title":"SpongeBob","preview":"https://i.postimg.cc/vm7FZ3Zq/spongebob.jpg","url":"https://i.postimg.cc/vm7FZ3Zq/spongebob.jpg"},
       {"title":"太阳，又落山了","preview":"https://i.postimg.cc/fTJmSXzy/image.jpg","url":"https://i.postimg.cc/fTJmSXzy/image.jpg"},
       {"title":"自由","preview":"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/background1.webp","url":"https://cdn.jsdelivr.net/gh/sangyu520/picgo/img/background1.webp"},
-
+      {"title":"看书","preview":"https://i.postimg.cc/13fDSjJS/image.jpg","url":"https://i.postimg.cc/13fDSjJS/image.jpg"},
+      {"title":"海洋女孩","preview":"/img/wallpaper/static/海洋女孩/image-pre.webp","url":"/img/wallpaper/static/海洋女孩/image.png"},
       
     ],
     picMobile:[
